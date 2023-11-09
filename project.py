@@ -2,6 +2,8 @@
 #*Here a gui application is created where user can search faculty free slots by their id or name
 #*also user can see brach wise timetable
 #*and even faculty can enter their free slots in excel sheet 
+#make sure that to fix the file locations properly
+#also the images used here are not time table but in place of that suitable timetable img can be placed
 import tkinter as tk
 import openpyxl,xlrd
 from openpyxl import Workbook
